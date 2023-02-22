@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459577903089",
+    "project_id": "chat-gui-ab1f0",
+    "storage_bucket": "chat-gui-ab1f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459577903089:android:0949fdb87e3256c4132650",
+        "android_client_info": {
+          "package_name": "br.com.GuilhermeQueiroz.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459577903089-4tkdm3jvui320qgedabj5m76c2qq9s80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7nztW2Bs4iXzR7kJdPK6315XM4Q3D1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459577903089-4tkdm3jvui320qgedabj5m76c2qq9s80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

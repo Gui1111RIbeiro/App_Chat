@@ -1,0 +1,40 @@
+name: chat
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.6
+  provider: ^6.0.4
+  cloud_firestore: ^4.1.0
+  firebase_auth: ^4.1.4
+  firebase_storage: ^11.0.6
+  firebase_messaging: ^14.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.11.0
+
+  flutter_lints: ^2.0.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon.png"
+  adaptive_icon_background: "#191919"
+  adaptive_icon_foreground: "assets/icons/icon.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/avatar.png
