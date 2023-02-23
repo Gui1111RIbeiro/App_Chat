@@ -37,9 +37,13 @@ This project was developed as part of my study on the flutter framework. I was c
 
 **https://docs.flutter.dev/get-started/install**
  
- - ## Install and configure AndroidStudio in your machine
+- ## Install and configure AndroidStudio in your machine
 
  **https://developer.android.com/studio**
+ 
+- ## Create a firebase account
+
+ **https://firebase.google.com/?hl=pt**
 
 # 🔨 Project Features
 
