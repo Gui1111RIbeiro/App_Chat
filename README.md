@@ -21,7 +21,7 @@ APP Chat
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was created to learn about how chat works in apps, as I wanted to implement this in my shop project. So I created a chat with several users and managed to save each one's messages, in addition to generating notifications outside the application. Unfortunately I can't implement everything I created in the shop project, but nothing that is impossible to achieve, everything can be solved with a few changes, right?
 
 # 📁 Access the Project
 
@@ -39,17 +39,21 @@ This project was developed as part of my study on the flutter framework. I was c
  
 - ## Install and configure AndroidStudio in your machine
 
- **https://developer.android.com/studio**
- 
+**https://developer.android.com/studio**
+
 - ## Create a firebase account
 
- **https://firebase.google.com/?hl=pt**
+**https://firebase.google.com/?hl=pt**
 
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen 
+- `Feature 2`: split screen
 - `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: take pictures using cell phone camera
+- `Feature 5`: create a private account using avatar profile
+- `Feature 6`: chat with people
+- `Feature 7`: receive notifications out of the app
 
 # ▶ Run the Project
 
@@ -68,4 +72,4 @@ flutter run
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference
