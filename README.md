@@ -15,7 +15,7 @@
 
 ## Status do Projeto
 
-![](https://img.shields.io/badge/estado-sucesso-brightgreen/github/deployments/:user/:repo/:environment)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
 ## Descrição do Projeto
 
