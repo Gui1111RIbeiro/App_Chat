@@ -47,7 +47,7 @@ Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter
 
 - `Funcionalidade 1`: imagem do ícone
 - `Funcionalidade 2`: tela dividida
-- `Funcionalidade 3`: compatível com dispositivos IOS e Android
+- `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
 - `Funcionalidade 4`: tirar fotos usando a câmera do celular
 - `Funcionalidade 5`: criar uma conta privada usando um perfil de avatar
 - `Funcionalidade 6`: conversar com pessoas
