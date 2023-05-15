@@ -52,7 +52,7 @@ This project was developed as part of my study on the flutter framework. I was c
 - `Feature 3`: compatible for both devices IOS and Android
 - `Feature 4`: take pictures using cell phone camera
 - `Feature 5`: create a private account using avatar profile
-- `Feature 6`: chat with people
+- `Feature 6`: chat with another person
 - `Feature 7`: receive notifications out of the app
 
 # ▶ Run the Project
